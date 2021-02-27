@@ -2,6 +2,7 @@ Códigos:
 #rumoaoproximonivel
 #jornadainfinita
 #focopraticagrupo
+#neverstoplearning
 
 Criar migrations:
 npx typeorm migration:create -n CreateUsers

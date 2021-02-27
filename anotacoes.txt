@@ -1,0 +1,10 @@
+Códigos:
+#rumoaoproximonivel
+#jornadainfinita
+#focopraticagrupo
+
+Criar migrations:
+npx typeorm migration:create -n CreateUsers
+
+Rodar migration
+npm run typeorm migration:run
